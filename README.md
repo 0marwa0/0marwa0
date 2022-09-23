@@ -9,7 +9,7 @@
 ### Connect with me:
 
 
-![linkedin](img/linkedin-light.svg)
+![linkedin](https://iconsplace.com/wp-content/uploads/_icons/ffc0cb/256/png/linkedin-2-icon-12-256.png)
 
 ### Languages and Tools:
 
