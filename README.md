@@ -9,8 +9,8 @@
 ### Connect with me:
 
 
-[(./img/linkedin-light.svg)](https://linkedin.com/in/marwa-jawad-4bb754150#gh-light-mode-only)
-[(./img/linkedin-dark.svg)](https://linkedin.com/in/marwa-jawad-4bb754150#gh-dark-mode-only)
+[<img align="left" alt="Vim" width="26px" src="./img/linkedin-light.svg"/>][https://linkedin.com/in/marwa-jawad-4bb754150#gh-light-mode-only]
+[<img align="left" alt="Vim" width="26px" src="./img/linkedin-dark.svg"/>][https://linkedin.com/in/marwa-jawad-4bb754150#gh-dark-mode-only]
 
 ### Languages and Tools:
 
