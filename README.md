@@ -9,7 +9,7 @@
 ### Connect with me:
 
 
-[<img alt="linkedin"  src="/img/linkedin-light.svg">](https://linkedin.com/in/marwa-jawad-4bb754150#gh-light-mode-only)
+![linkedin](./img/linkedin-light.svg)
 
 ### Languages and Tools:
 
