@@ -9,7 +9,7 @@
 ### Connect with me:
 
 
-![linkedin](https://iconsplace.com/wp-content/uploads/_icons/ffc0cb/256/png/linkedin-2-icon-12-256.png)
+[![linkedin](https://iconsplace.com/wp-content/uploads/_icons/ffc0cb/256/png/linkedin-2-icon-12-256.png)](https://linkedin.com/in/marwa-jawad-4bb754150)
 
 ### Languages and Tools:
 
