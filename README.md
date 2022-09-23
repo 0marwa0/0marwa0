@@ -9,7 +9,7 @@
 ### Connect with me:
 
 
-![linkedin](./img/linkedin-light.svg)
+![linkedin](img/linkedin-light.svg)
 
 ### Languages and Tools:
 
