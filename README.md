@@ -9,8 +9,7 @@
 ### Connect with me:
 
 
-[![linkedin](https://iconsplace.com/wp-content/uploads/_icons/ffc0cb/256/png/linkedin-2-icon-12-256.png)](https://linkedin.com/in/marwa-jawad-4bb754150)
-[<img src="./img/linkedin.png"/>](https://linkedin.com/in/marwa-jawad-4bb754150)
+[<img src="./img/linkedin.png" style=" width:30px"/>](https://linkedin.com/in/marwa-jawad-4bb754150)
 
 ### Languages and Tools:
 
