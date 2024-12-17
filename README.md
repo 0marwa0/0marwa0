@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning algorithms 
 - 😻 I’m looking to new challenges 
-- 🥅 2024 Goals: contribute more into open source projects  
 
 ### Connect with me:
 
