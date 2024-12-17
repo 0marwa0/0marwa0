@@ -2,7 +2,6 @@
 
 ## I'm a Developer!
 
-- 🌱 I’m currently learning algorithms 
 - 😻 I’m looking to new challenges 
 
 ### Connect with me:
