@@ -1,9 +1,5 @@
 # Hi there, I'm Marwa  👋 
 
-## I'm a Developer!
-
-- 😻 I’m looking to new challenges 
-
 ### Connect with me:
 
 
